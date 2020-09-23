@@ -1,2 +1,5 @@
 def hello_world():
-    print("hello world!")
+    """
+    This is the second version!
+    """
+    print("hello " +  "world!")
